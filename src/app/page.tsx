@@ -1,5 +1,5 @@
-import VentureAssociateApplicationSite from "../../VentureAssociateApplicationSite";
+import CVSite from "../../CVSite";
 
 export default function Page() {
-  return <VentureAssociateApplicationSite />;
+  return <CVSite />;
 }
